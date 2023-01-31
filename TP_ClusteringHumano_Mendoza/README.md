@@ -1,0 +1,3 @@
+Añadimos el README solo para probar...
+
+Despues lo vamos a mejorar y hacerlo onda "informe" del proyecto.
